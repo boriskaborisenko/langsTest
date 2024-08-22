@@ -1,0 +1,15 @@
+[
+    {
+        "type": "testErr",
+        "en": "test error",
+        "ru":"ruerr",
+        "de":"deerr"
+    },
+    {
+        "type": "testErr2",
+        "en": "test error",
+        "ru":"ruerr",
+        "de":"deerr"
+    }
+    
+]
