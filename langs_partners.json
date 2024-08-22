@@ -1,7 +1,7 @@
 
-export const langs = {
-ru:{
-  translation:{
+{
+"ru":{
+  "translation":{
     "extraIncomeLoyalty": "Дополнительная доходность и укрепление лояльности к вашему бренду с технологиями VIAPP.TECH",
     "convertVisitsIncome": "Превратите каждый визит клиента в дополнительный доход — легко, быстро и без лишних хлопот.",
     "expandServicesIncome": "VIAPP.TECH предоставляет вам возможность расширить ассортимент услугами страхования и увеличить доходность вашего бизнеса без лишних забот. Ваша задача — информировать своих клиентов о новых возможностях, а мы позаботимся обо всем остальном: от расчета стоимости до оформления полиса и поддержки клиентов.",
@@ -69,8 +69,8 @@ ru:{
       
   
 },
-de:{
-  translation:{
+"de":{
+  "translation":{
     "extraIncomeLoyalty": "Zusätzliche Einnahmen und gestärkte Loyalität zu Ihrer Marke mit VIAPP.TECH-Technologien",
     "convertVisitsIncome": "Verwandeln Sie jeden Kundenbesuch in zusätzliche Einnahmen – einfach, schnell und ohne Aufwand.",
     "expandServicesIncome": "VIAPP.TECH bietet Ihnen die Möglichkeit, Ihr Angebot mit Versicherungsdienstleistungen zu erweitern und die Rentabilität Ihres Unternehmens ohne zusätzliche Sorgen zu steigern. Ihre Aufgabe ist es, Ihre Kunden über neue Möglichkeiten zu informieren, und wir kümmern uns um den Rest: von der Kostenberechnung bis zur Ausstellung von Policen und der Kundenbetreuung.",
@@ -136,8 +136,8 @@ de:{
     "f_a9": "Ja, natürlich! Sie können UTM-Parameter verwenden, um die Effektivität jedes Mitarbeiters und/oder Verkaufsstandortes zu verfolgen. Zum Beispiel können Sie durch Angabe von 'manager=SteveJobs' alle Statistiken und Vergütungen einsehen, was Ihnen die einfache Berechnung von Prämien für Ihr Personal ermöglicht."
   }
 },
-da:{
-  translation:{
+"da":{
+  "translation":{
     "extraIncomeLoyalty": "Ekstra indkomst og styrket loyalitet over for dit brand med VIAPP.TECH-teknologier",
     "convertVisitsIncome": "Gør hvert kundebesøg til en ekstra indtægt – nemt, hurtigt og uden besvær.",
     "expandServicesIncome": "VIAPP.TECH giver dig mulighed for at udvide dit udbud med forsikringstjenester og øge din virksomheds rentabilitet uden ekstra bekymringer. Din opgave er at informere dine kunder om nye muligheder, og vi tager os af resten: fra prisberegning til udstedelse af forsikringer og kundesupport.",
@@ -203,8 +203,8 @@ da:{
     "f_a9": "Ja, selvfølgelig! Du kan bruge UTM-parametre til at spore effektiviteten af hver medarbejder og/eller salgssted. For eksempel ved at angive \"manager=SteveJobs\", vil du kunne se alle statistikker og belønninger, hvilket giver dig mulighed for nemt at beregne bonusser til dit personale."
   }
 },
-ka:{
-  translation:{
+"ka":{
+  "translation":{
     "extraIncomeLoyalty": "დამატებითი შემოსავალი და ბრენდის ერთგულების გაძლიერება VIAPP.TECH ტექნოლოგიებით",
     "convertVisitsIncome": "გაადიდეთ თითოეული კლიენტის ვიზიტი დამატებით შემოსავლად – მარტივად, სწრაფად და ზედმეტი ძალისხმევის გარეშე.",
     "expandServicesIncome": "VIAPP.TECH გაძლევთ საშუალებას გააფართოვოთ თქვენი სერვისების ასორტიმენტი დაზღვევის მომსახურებით და გაზარდოთ თქვენი ბიზნესის მომგებიანობა ზედმეტი საფიქრალის გარეშე. თქვენი ამოცანაა აცნობოთ თქვენს კლიენტებს ახალი შესაძლებლობების შესახებ, დანარჩენს ჩვენ მივხედავთ: ხარჯების გამოთვლიდან პოლისის გაფორმებამდე და კლიენტთა მხარდაჭერამდე.",
@@ -270,8 +270,8 @@ ka:{
     "f_a9": "დიახ, რა თქმა უნდა! თქვენ შეგიძლიათ გამოიყენოთ UTM პარამეტრები თითოეული თანამშრომლისა და/ან გაყიდვების წერტილის ეფექტურობის თვალთვალისთვის. მაგალითად, მიუთითოთ \"manager=SteveJobs\", თქვენ ნახავთ ყველა სტატისტიკას და ჯილდოს, რაც საშუალებას მოგცემთ მარტივად გამოთვალოთ ბონუსები თქვენი თანამშრომლებისთვის."
   }
 },
-el:{
-  translation:{
+"el":{
+  "translation":{
     "extraIncomeLoyalty": "Πρόσθετα έσοδα και ενίσχυση της πιστότητας προς το εμπορικό σας σήμα με την τεχνολογία VIAPP.TECH",
     "convertVisitsIncome": "Μετατρέψτε κάθε επίσκεψη πελάτη σε πρόσθετα έσοδα – εύκολα, γρήγορα και χωρίς περιττές προσπάθειες.",
     "expandServicesIncome": "Το VIAPP.TECH σας προσφέρει τη δυνατότητα να επεκτείνετε το φάσμα των υπηρεσιών σας με ασφαλιστικές υπηρεσίες και να αυξήσετε την κερδοφορία της επιχείρησής σας χωρίς επιπλέον ανησυχίες. Η μόνη σας αρμοδιότητα είναι να ενημερώνετε τους πελάτες σας για τις νέες δυνατότητες, ενώ εμείς θα φροντίσουμε τα υπόλοιπα: από τον υπολογισμό του κόστους έως την έκδοση των ασφαλιστηρίων συμβολαίων και την υποστήριξη των πελατών.",
